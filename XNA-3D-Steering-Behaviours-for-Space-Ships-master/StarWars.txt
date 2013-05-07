@@ -1,0 +1,30 @@
+Michael Ashe
+C09530291
+
+The scene I decided to do is from the game "Star Wars Battlefront 2"
+
+In the space battles of star wars battlefront 2 each faction has one large flagship (eg, imperial star destroyer), 1-2 corvettes or frigates, and plenty of small ships such as fighters,bombers and interceptors. 
+
+Each of the small ships has a specific role, the fighters try to attack the bombers while evading the interceptors, the bombers try to target critical components of the enenmy flagship( such as the engines, bridge and life control systems) and the interceptors attack the fighters. 
+
+
+
+Empire Ships:
+
+Flagship  : Star Destroyer
+Frigate   : Heavy Cruiser
+Small Ship: Tie Fighter
+Small Ship: Tie Bomber
+Small Ship: Tie Interceptor
+
+Rebel Ships:
+
+Corvette  :CR90 corvette
+Flagship  :MC80 Home One type Star Cruiser
+Small Ship:X-wing Fighter
+Small Ship:Y-Wing Bomber
+Small Ship:A-Wing Interceptor
+
+
+
+The idea is that the two large ships will face off against each other, keeping their figates and corvettes to their side for defence, and send out the fighters,bombers and interceptors to destroy critical components of the ememy ship and to destroy the firgates and corvettes
